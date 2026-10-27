@@ -1,0 +1,3 @@
+setup_id	points_file	resize_to_standard	description
+box_4k_2026	02_points_box_4k_2026.slp	auto	plastic boxes filmed from below, backlit, Sony FDR-AX53 3840x2160 (SLEAP-test videos, Sept 2026)
+petri_5500	01_petri_points.slp	auto	petri dish, front-lit plaster floor, 5500x5648 (PoseIDAnt Trial3/Trial4 videos; read-only)
