@@ -88,7 +88,7 @@ combination; if any of those change, ant size in pixels changes, so give it a ne
 Videos must be named `<ColonyID>_<YYYY-MM-DD>.MP4`.
 
 ```bash
-cd ~/Dropbox/university/phd/others/2026/SLEAP-test/census_pipeline
+cd census_pipeline/
 PY=/path/to/the/python/that/came/with/your/sleap/install
 
 # mark ants on 20 frames per video (1 per second), using the current model
