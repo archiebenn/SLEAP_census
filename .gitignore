@@ -1,0 +1,15 @@
+# large files
+*.MP4
+*.mp4 
+*.html  
+
+# big SLEAP stuff
+*.pkg.slp
+
+# generated outputs
+census_pipeline/outputs/
+census_output/
+predictions/
+
+# trained models  
+*_model_*/
