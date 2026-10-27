@@ -11,7 +11,7 @@ model better for everyone. It runs on its own: you need SLEAP, an NVIDIA graphic
 
 - There is **one SLEAP project per recording setup**. A *setup* = one combination of camera, zoom, camera height
   and lighting. Projects live in `Dropbox/SLEAP-test/` and are named `labels_<setup_id>.slp`.
-- `setups.tsv` (in this folder) lists every setup: its id, its imported points file, and its resize factor.
+- `setups.tsv` (in `census_pipeline/`) lists every setup: its id, its imported points file, and its resize factor.
 - The pipeline imports each project separately (step 02), then **combines all setups when training** (step 03).
 
 Current projects:
